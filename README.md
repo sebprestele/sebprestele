@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sebastian Prestele/h1>
+<h1 align="center">Hi 👋, I'm Sebastian Prestele </h1>
 <h3 align="center">A self-taught frontend developer based near Munich / Germany</h3>
   
-My background is in sales and digital marketing (especially content marketing and SEO). Over the last 10+ years I have been building and running my own online businesses using my digital marketing skills. While working on my own businesses I also learned how to build my own websites and landing pages, mainly with WordPress.I realized that I actually enjoyed building websites much more than marketing them and so my journey into web development began. 
+ <p>My background is in sales and digital marketing (especially content marketing and SEO). Over the last 10+ years I have been building and running my own online businesses using my digital marketing skills. </p>
+ <p>While working on my own businesses I also learned how to build my own websites and landing pages, mainly with WordPress.I realized that I actually enjoyed building websites much more than marketing them and so my journey into web development began. </p>
 Over the last year I have taken many courses and build small projects in HTML, CSS and Vanilla JavaScript. More recently I also started to learn React, Redux and got really excited about Jamstack architecture. 
     
 ---
@@ -20,14 +21,11 @@ Over the last year I have taken many courses and build small projects in HTML, C
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=typescript&logoColor=white)
-
+![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 ### 💬 Contact Me
