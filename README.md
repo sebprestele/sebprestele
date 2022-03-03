@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm yuebaix</h1>
-<h3 align="center">A passionate backend developer from China</h3>
-
+<h1 align="center">Hi 👋, I'm Sebastian Prestele/h1>
+<h3 align="center">A self-taught frontend developer based near Munich / Germany</h3>
+  
+My background is in sales and digital marketing (especially content marketing and SEO). Over the last 10+ years I have been building and running my own online businesses using my digital marketing skills. While working on my own businesses I also learned how to build my own websites and landing pages, mainly with WordPress.I realized that I actually enjoyed building websites much more than marketing them and so my journey into web development began. 
+Over the last year I have taken many courses and build small projects in HTML, CSS and Vanilla JavaScript. More recently I also started to learn React, Redux and got really excited about Jamstack architecture. 
+    
 ---
-
-![followers](https://img.shields.io/github/followers/sebprestele?style=social)
-![stars](https://img.shields.io/github/stars/sebprestele?style=social)
 
 - 🔭 I’m currently working on a [E-Commerce Shop with headless Commerce](https://github.com/sebprestele/React-E-Commerce-Store-Project)
 - 🌱 I’m currently learning **Backend - Express.js and MongoDB**
@@ -34,7 +34,8 @@
 
 [![Gmail](https://img.shields.io/badge/-sebastian.prestele@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yuebaix@outlook.com)
 
-### 🚦 Stats
+![followers](https://img.shields.io/github/followers/sebprestele?style=social)
+![stars](https://img.shields.io/github/stars/sebprestele?style=social)
 
 
 -----
