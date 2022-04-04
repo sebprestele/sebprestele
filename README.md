@@ -7,7 +7,7 @@ Over the last year I have taken many courses and build small projects in HTML, C
     
 ---
 
-- 🔭 I’m currently working on a [E-Commerce Shop with headless Commerce](https://github.com/sebprestele/React-E-Commerce-Store-Project)
+- 🔭 I’m currently working on a [Fullstack (MERN) Financial Dashboard](https://github.com/sebprestele/financial-dashboard-fullstack)
 - 🌱 I’m currently learning **Backend - Express.js and MongoDB**
 - 👨‍💻 All of my projects are available at [https://github.com/sebprestele](https://github.com/sebprestele)
 - 💬 Ask me about **My journey from Digital Marketing and SEO to becoming a self taught developer**
