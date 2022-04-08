@@ -24,7 +24,6 @@ Over the last year I have taken several courses and build small projects in HTML
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 
 ![Express.js](http://img.shields.io/badge/-Express-white?style=flat-square&logo=express)
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
