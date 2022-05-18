@@ -8,7 +8,7 @@ Over the last year I have taken several courses and build small projects in HTML
 ---
 
 - 🔭 I’m currently working on a [Fullstack (MERN) Financial Dashboard](https://github.com/sebprestele/financial-dashboard-fullstack)
-- 🌱 I’m currently learning **Backend - Express.js and MongoDB**
+- 🌱 I’m currently learning **Vue.js and Vuestorefront**
 - 👨‍💻 All of my projects are available at [https://github.com/sebprestele](https://github.com/sebprestele)
 - 💬 Ask me about **My journey from Digital Marketing and SEO to becoming a self taught developer**
 - 📫 How to reach me **sebastian.prestele@gmail.com**
