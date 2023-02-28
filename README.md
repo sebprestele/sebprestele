@@ -3,15 +3,8 @@
   
  <p>My background is in sales and digital marketing (especially content marketing and SEO). Over the last 10+ years I have been working in digital marketing, as well as building and running my own online business and helping clients grow theirs using my digital marketing skills. </p>
  <p>While working on my own businesses I also learned how to build my own websites and landing pages, mainly with WordPress.I realized that I actually enjoyed building websites much more than marketing them and so my journey into web development began. </p>
-Over the last year I have taken several courses and build small projects in HTML, CSS and Vanilla JavaScript. More recently I also started to learn React, Redux and since joining Team23 as web developer also Vue.js, PHP, Magento development and much much more
     
 ---
-
-- 🔭 I’m currently working on a [Fullstack (MERN) Financial Dashboard](https://github.com/sebprestele/financial-dashboard-fullstack)
-- 🌱 I’m currently learning **Three.js**
-- 👨‍💻 All of my projects are available at [https://github.com/sebprestele](https://github.com/sebprestele)
-- 💬 Ask me about **My journey from Digital Marketing and SEO to becoming a self taught developer**
-- ⚡ Fun fact **I lived in Thailand for half my life and had a major culture shock when moving back to my native Germany in my late 30s**
 
 ### 🛠 Tech Stack
 
