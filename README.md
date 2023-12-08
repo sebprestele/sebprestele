@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Prestele </h1>
   
- <p>My background is in sales and digital marketing (especially content marketing and SEO). Over the last 10+ years I have been working in digital marketing, as well as building and running my own online business and helping clients grow theirs using my digital marketing skills. </p>
+ <p>My background is in digital marketing (especially content marketing and SEO). For 10+ years I have been working in digital marketing, as well as building and running my own online business and helping clients grow theirs using my digital marketing skills. </p>
  <p>While working on my own businesses I also learned how to build my own websites and landing pages. I realized that I actually enjoyed building websites much more than marketing them and so my journey into web development began. </p>
     
 ---
